@@ -35,7 +35,21 @@ Response (201 Created) with last 10 messages:
     "username": "Bot",
     "message": "Hello! How can I assist you today?",
     "timestamp": "2024-01-20T10:30:01.000Z"
-  }
+  },
+  "messages": [
+    {
+      "id": 1,
+      "username": "User",
+      "message": "Hello",
+      "timestamp": "2024-01-20T10:30:00.000Z"
+    }
+    {
+      "id": 2,
+      "username": "Bot",
+      "message": "Hello! How can I assist you today?",
+      "timestamp": "2024-01-20T10:30:01.000Z"
+    }
+  ]
 }
 ```
 
