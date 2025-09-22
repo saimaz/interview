@@ -126,10 +126,6 @@ Response (200 OK):
 - Browser compatibility
 - Security considerations (XSS prevention)
 
-## Time Expectation
-2-3 hours for core functionality
-+1 hour for bonus features
-
 ## Submission
 1. Create a new React application
 2. Implement the chat interface
